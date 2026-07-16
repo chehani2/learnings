@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.funtional_interface;
+package com.learning.java_high_performance_development.funtional_interface;
 
 public class HelloWorldGreeting implements Greeting {
 

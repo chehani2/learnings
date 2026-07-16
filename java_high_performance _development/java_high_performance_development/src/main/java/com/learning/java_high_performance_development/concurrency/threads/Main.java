@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.concurrency.threads;
+package com.learning.java_high_performance_development.concurrency.threads;
 
 public class Main {
 

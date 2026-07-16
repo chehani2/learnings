@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.lambda;
+package com.learning.java_high_performance_development.lambda;
 
 public class Main {
 

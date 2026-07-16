@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development;
+package com.learning.java_high_performance_development;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

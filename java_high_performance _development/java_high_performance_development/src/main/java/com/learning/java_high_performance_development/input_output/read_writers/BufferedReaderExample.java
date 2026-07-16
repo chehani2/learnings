@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.input_output.read_writers;
+package com.learning.java_high_performance_development.input_output.read_writers;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

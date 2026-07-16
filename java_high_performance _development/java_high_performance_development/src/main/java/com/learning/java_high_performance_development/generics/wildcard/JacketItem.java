@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.generics.wildcard;
+package com.learning.java_high_performance_development.generics.wildcard;
 
 public class JacketItem extends ClothingItem {
 

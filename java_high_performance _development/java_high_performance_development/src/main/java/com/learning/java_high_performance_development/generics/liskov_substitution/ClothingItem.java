@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.generics.liskov_substitution;
+package com.learning.java_high_performance_development.generics.liskov_substitution;
 
 public abstract class ClothingItem {
 

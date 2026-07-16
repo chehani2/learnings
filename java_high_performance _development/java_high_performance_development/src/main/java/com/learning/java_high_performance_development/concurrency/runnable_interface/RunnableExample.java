@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.concurrency.runnable_interface;
+package com.learning.java_high_performance_development.concurrency.runnable_interface;
 
 public class RunnableExample implements Runnable {
 

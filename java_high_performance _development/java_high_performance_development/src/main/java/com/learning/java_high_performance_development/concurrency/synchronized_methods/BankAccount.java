@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.concurrency.synchronized_methods;
+package com.learning.java_high_performance_development.concurrency.synchronized_methods;
 
 public class BankAccount {
 

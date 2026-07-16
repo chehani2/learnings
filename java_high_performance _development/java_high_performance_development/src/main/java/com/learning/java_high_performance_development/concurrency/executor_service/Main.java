@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.concurrency.executor_service;
+package com.learning.java_high_performance_development.concurrency.executor_service;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

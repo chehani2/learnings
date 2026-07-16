@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.method_referrences;
+package com.learning.java_high_performance_development.method_referrences;
 
 import java.util.Arrays;
 import java.util.List;

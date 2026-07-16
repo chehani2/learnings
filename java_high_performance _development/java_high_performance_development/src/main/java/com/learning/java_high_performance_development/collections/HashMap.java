@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.collections;
+package com.learning.java_high_performance_development.collections;
 
 public class HashMap {
 

@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.input_output;
+package com.learning.java_high_performance_development.input_output;
 
 import java.util.Scanner;
 

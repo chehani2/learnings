@@ -1,4 +1,4 @@
-package com.learining.java_high_performance._development.generics;
+package com.learning.java_high_performance_development.generics;
 
 import java.util.Arrays;
 import java.util.List;
